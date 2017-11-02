@@ -1,0 +1,13 @@
+{
+    "name": "awsaf/yii2-basic-starter",
+    "description": "Basic Yii starter kit with user management and roll management integrated with Yii2 Easy Installer and CoreUI Backend.",
+    "type": "yii2-project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Awsaf Anam",
+            "email": "awsaf.anam@gmail.com"
+        }
+    ],
+    "require": {}
+}
